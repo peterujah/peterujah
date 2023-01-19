@@ -40,8 +40,8 @@
 # I MISTAKENLY 
 1. Create a PHP framework for a hybrid mobile app in IOS & Android using PHP, Javascript, HTML, CSS, and JAVA (60% web and 40% native)
 2. Changed localhost IP on mac and lost all files.
-3. Deleted database with proper backup
-4. Made changes on a particular file for more than 1hr while refreshing another file and new changes is not coming up
+3. Deleted database without proper backup
+4. Made changes on a particular file for more than 1hr while refreshing another file and the new changes is not coming up
 5. Decided to manually do spell correction on completed project variables and function names.
 6. Read the code I wrote on 2014
 2. Hacked Nasa with CSS
