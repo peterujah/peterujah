@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @peterujah, like writing codes and beautifying code for no reason
-- 📫 How to reach me? you can try writing me at ujahchigozie@gmail.com
+
+- 👋 Hi, I’m @peterujah, like writing codes and beautifying code for no reason.
+- 📫 How to reach me? you can try writing me at ujahchigozie@gmail.com, http://nanoblocktech.com.
 
 # FRONT-END SKILLS
   1. Javascript
@@ -21,6 +22,7 @@
   3. SQLITE
 
 # WHAT'S MY RECENT PROJECT
+
   1. E-COMMERCE: 
     A multiple vendor e-commerce mobile app/website with a live streaming feature for (Personal) from 2018/NOW().
   2. MAGAZINE PUBLISHING API/CONSOLE: 
@@ -30,24 +32,31 @@
   4. SOCIAL DATING APP: 
     A REST API that powered a social dating app for (Client) from 2022/NOW()
   5. POS SYSTEM: 
-    A webbased pont of sale system https://nanopos.store for (Personal) from 2022/NOW()
+    A webbased pont of sale system https://nanopos.ng for (Personal) from 2022/NOW().
+  6. PHP FRAMEWORK
+     A simple and powerful PHP Framework for `PHP 8` and above, it comes with everything you need to develope your application.
+     See project: https://github.com/luminovang/luminova.
+     See official website: https://luminova.ng.
 
 # CONTRIBUTIONS 
-1. Open Source Project
-2. PHP Classes https://phpclasses.org
-3. PHP Classes Inallable With Composer https://packagist.org/packages/peterujah/
+
+1. Open Source Project.
+2. PHP Classes https://phpclasses.org.
+3. PHP Classes Inallable With Composer [https://packagist.org/packages/peterujah/](https://packagist.org/packages/peterujah/), [https://packagist.org/packages/luminovang/](https://packagist.org/packages/luminovang/)
 
 # I MISTAKENLY 
-1. Create a PHP framework for a hybrid mobile app in IOS & Android using PHP, Javascript, HTML, CSS, and JAVA (60% web and 40% native)
+
+1. Create a PHP framework for a hybrid mobile app in IOS & Android using PHP, Javascript, HTML, CSS, and JAVA (60% web and 40% native).
 2. Changed localhost IP on mac and lost all files.
-3. Deleted database without proper backup
-4. Made changes on a particular file for more than 1hr while refreshing another file and the new changes is not coming up
+3. Deleted database without proper backup.
+4. Made changes on a particular file for more than 1hr while refreshing another file and the new changes is not coming up.
 5. Decided to manually do spell correction on completed project variables and function names.
-6. Read the code I wrote on 2014
-2. Hacked Nasa with CSS
+6. Read the code I wrote on 2014.
+2. Hacked Nasa with CSS.
 
 # I LIKE
-1. To answer the downvoted question on StackOverflow
-2. Put all functions in a class and reuse it on new projects 
-3. Write clean readable code
-4. Working on more challenging projects for free than paid usual project 
+
+1. To answer the downvoted question on StackOverflow.
+2. Put all functions in a class and reuse it on new projects.
+3. Write clean readable code.
+4. Working on more challenging projects for free than paid usual project.
